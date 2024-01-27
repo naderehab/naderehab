@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">Fullstack Web Developer From Tunisia</h3>
+<h1 align="center">Hi 👋, I'm Nader Ehab</h1>
+<h3 align="center">From Egypt</h3>
 
-- 🏢 I'm currently Web Developer, System Administrator, Online Instructor and Content Creator.
+- 🏢 I'm currently Student at Nahda university in Beni Suef .
 
-- 💬 Ask me about **ReactJs, NextJs, NodeJs, NestJs, Docker, Jenkins, Nginx, Linux**
+- 💬 Ask me about **HTML , CSS , TAilwind , Java script**
 
-- 🌱 Learning all about Web development and DevOps
+- 🌱 Learning Front-End Web devlopment
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/mansouri-youssef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansouri-youssef" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tensorcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tensorcode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nader-ehab-aa2800218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
